@@ -1,10 +1,11 @@
-# R Shiny App Development - 4New Yorkers Covid Survival Manual
+# R Shiny App Development - Covid Survival Manual 4NewYorkers
 
-### [Project Description](doc/project2_desc.md)
-
+### Project Description
 ![screenshot](doc/figs/appscreenshot.PNG)
 
-## Project Title: 4New Yorkers Covid Survival Manual
+## Project Title: Covid Survival Manual 4NewYorkers
+
+  R shiny website：https://ybliu9.shinyapps.io/CovidSurvivalManual4NewYorkers/
 
 + **Project summary**: 
 
